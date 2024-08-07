@@ -12,7 +12,7 @@ OrgAssist is an AI chatbot designed to provide information, answer FAQs, and han
 ## Project Structure
 
 ```
-Internal-Hackathon/
+Org-Assist/
 ├── static/
 ├── templates/
 ├── app.py
