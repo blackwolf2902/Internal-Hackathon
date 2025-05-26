@@ -48,7 +48,7 @@ To use OrgAssist on your local system, follow these steps:
 
 2. Navigate to the project directory:
    ```
-   cd Internal-Hackathon
+   cd Org-Assist
    ```
 
 3. Install the required dependencies:
